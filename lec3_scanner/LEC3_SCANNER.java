@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package lec3_scanner;
 
-/**
- *
- * @author Macbook
- */
+
 import java.util.Scanner;
 
 public class LEC3_SCANNER {
@@ -44,5 +38,6 @@ public class LEC3_SCANNER {
         sc.close();
     }
 }
+
 
 
